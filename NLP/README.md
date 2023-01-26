@@ -9,4 +9,4 @@
 
 * In this project, we will classify Yelp Reviews into 1 star or 5 star categories based off the text content in the reviews
 * [Kaggle Dataset link](https://www.kaggle.com/c/yelp-recsys-2013)
-* Related files : [Yelpreviews.ipynb]() and [yelp.csv]()
+* Related files : [Yelpreviews.ipynb](https://github.com/ArchanaDeviRamesh/ML-and-NLP/blob/main/NLP/Yelpreviews.ipynb) and [yelp.csv](https://github.com/ArchanaDeviRamesh/ML-and-NLP/blob/main/NLP/yelp.csv)
